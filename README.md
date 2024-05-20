@@ -1,4 +1,4 @@
-#Enhancing Firearm Detection in Video Surveillance
+# Enhancing Firearm Detection in Video Surveillance
 
 **Abstract**
 
