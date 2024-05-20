@@ -12,6 +12,7 @@ The increase in concealed firearm incidents underscores the need for improved se
 
 **Dataset Collection**
 We used a dataset of 398 videos featuring individuals with and without firearms. The dataset includes categories for Handgun, Machine Gun, and No Gun.
+source:https://data.mendeley.com/datasets/bbzpxhd22j/2 ![image](https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/assets/131414180/6b332077-f585-4172-99ef-447671f4d010)
 
 **Data Pre-processing**
 Preprocessing involved extracting frames at 25 FPS and 640x480 resolution, converting annotations to the required formats for YOLOv5 and Faster R-CNN, and applying SRGAN for image enhancement.
@@ -31,3 +32,12 @@ YOLOv5: Faster inference but slightly lower accuracy.
 **Conclusion**
 
 Our project demonstrates the effectiveness of integrating high-accuracy and fast models with SRGAN for data augmentation in real-time firearm detection. Future research could focus on integrating real-time alert mechanisms and adaptive learning techniques to improve system performance and reliability.
+
+**DEMO**
+#Machine Gun Detection
+https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/assets/131414180/71d04aed-08b6-42a6-a899-5dbe93f5102d
+
+##Hand Gun Detection
+https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/assets/131414180/1d4872a2-9539-4df4-ac22-06278fbaacf2
+
+
