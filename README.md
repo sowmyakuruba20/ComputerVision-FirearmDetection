@@ -34,10 +34,12 @@ YOLOv5: Faster inference but slightly lower accuracy.
 Our project demonstrates the effectiveness of integrating high-accuracy and fast models with SRGAN for data augmentation in real-time firearm detection. Future research could focus on integrating real-time alert mechanisms and adaptive learning techniques to improve system performance and reliability.
 
 **DEMO**
-#Machine Gun Detection
+# Machine Gun Detection
+
 https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/assets/131414180/71d04aed-08b6-42a6-a899-5dbe93f5102d
 
-##Hand Gun Detection
+# Hand Gun Detection
+
 https://github.com/sowmyakuruba20/ComputerVision-FirearmDetection/assets/131414180/1d4872a2-9539-4df4-ac22-06278fbaacf2
 
 
